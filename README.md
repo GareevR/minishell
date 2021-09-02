@@ -1,0 +1,2 @@
+# minishell
+Shell (bash) implementation
